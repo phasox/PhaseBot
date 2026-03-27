@@ -12,7 +12,10 @@ __________.__                        __________        __
 </p>
 
 <p align="center">
-  <b>⚡ PhaseBot — Advanced Discord Bot by PhaseDev ⚡</b>
+  <b>
+   ⚡ PhaseBot — Advanced Discord Bot by PhaseDev ⚡
+                  Now An Phasox Work
+  </b>
   <b>Now An Phasox Work</b>
 </p>
 
