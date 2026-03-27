@@ -13,8 +13,8 @@ __________.__                        __________        __
 
 <p align="center">
   <b>
-   ⚡ PhaseBot — Advanced Discord Bot by PhaseDev ⚡
-                  Now An Phasox Work
+⚡ PhaseBot — Advanced Discord Bot by PhaseDev ⚡
+Now An Phasox Work
   </b>
   <b>Now An Phasox Work</b>
 </p>
